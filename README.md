@@ -90,25 +90,20 @@ streamlit run app.py --server.port 8080
 
 Runs fully on CPU on the cloud.
 
-## 8. Output Sections to Add Screenshots
-
-Below placeholders will help you add screenshots later.
+## 8. Output Sections
 
 ### **a. VS Code Terminal Output**
 
-(Add screenshot under this section)
+<img width="1143" height="560" alt="image" src="https://github.com/user-attachments/assets/88bc3061-3dc6-485e-aea5-760fb87aa8ae" />
 
 ### **b. Web UI – Metadata Load & Search Page**
 
-(Add screenshot here)
+<img width="1872" height="753" alt="image" src="https://github.com/user-attachments/assets/20207dc3-be35-4bca-a9d8-bca63a7b56a9" />
 
 ### **c. Object Detection Results (Grid View)**
 
-(Add screenshot here)
+<img width="1712" height="804" alt="image" src="https://github.com/user-attachments/assets/99885d32-a987-40a0-88d0-5958dc3e088b" />
 
-### **d. JSON Export / Search Filters Section**
-
-(Add screenshot here)
 
 ## 9. Enhancements Included
 
